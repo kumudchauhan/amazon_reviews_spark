@@ -14,4 +14,4 @@ Analyzing these reviews and ratings provide useful insights about customers beha
 * Total number of customers : 4112395
 * Maximum star ratings :  64% customers give 5 star ratings
 * Product category which got highest Average rating : Automotive with avergae rating 4.59/5
-* Product category with Maximum reviews category : Mobile Apps with a cout of over 1 million reviews
+* Product category with Maximum reviews category : Mobile Apps with a count of over 1 million reviews
