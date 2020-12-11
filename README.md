@@ -1,9 +1,11 @@
 # Amazon Customer Reviews analysis using Apache Spark
 
-In this project, I extracted [Amazon customer reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and the dataset has been taken from the amazon’s official website by web scraping. We have used multilingual reviews dataset which contains the reviews of US marketplace only. The data contains The data consist of 7 million reviews and ratings given by the customers over 20 years from year 1995 to 2015. 
+In this project, I extracted [Amazon customer reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and the dataset has been taken from the amazon’s official website by web scraping. I have used multilingual reviews dataset which contains the reviews of US marketplace only. The data contains The data consist of 7 million reviews and ratings given by the customers over 20 years from year 1995 to 2015. 
 
 ## Business Problem
-Analyzing these reviews and ratings provide useful insights about customers behaviour. I am mainly interested in analyzing customer reviews to find answers of business problems such as are users inclined more towards high rating products, does the length of the review and words used in review headline influences user's decision, does low rating and bad reviews restricts customer to purchase the product etc. Finding top words used by the customers in the reviews to understand their sentiments and some more details complemented to the product ratings. This analysis can provide helpful information to any e-commerce or other businesses who are getting feedback/reviews from their customers. These techniques can be helpful for customer success, customer retention by understand customer behaviour.
+Analyzing these reviews and ratings provide useful insights about customers behaviour. I am mainly interested in analyzing customer reviews to find answers of business problems such as are users inclined more towards high rating products, does the length of the review and words used in review headline influences user's decision, does low rating and bad reviews restricts customer to purchase the product etc. Finding top words used by the customers in the reviews to understand their sentiments and some more details complemented to the product ratings. 
+
+This type of analysis can provide helpful information to any e-commerce or other businesses who are getting feedback/reviews from their customers. These techniques can be helpful for customer success, customer retention by providing a better understanding of their customers behaviour and product qulaity.
 
 ## Tools and technologies used
 * Big data technologies: Azure Databricks, Configuration 6.0 Conda Beta with 2 nodes, Apache spark 2.4.3, Scala 2.11
